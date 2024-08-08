@@ -1,3 +1,1 @@
-rootProject.name = "template"
-
-include("sandbox")
+rootProject.name = "github-maven-deploy"
